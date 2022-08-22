@@ -5,11 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54c03cd8-71dd-43e7-b246-70d39db92b86" name="Default Changelist" comment="测试soft">
-      <change afterPath="$PROJECT_DIR$/src/open/DemoMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloworld/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="54c03cd8-71dd-43e7-b246-70d39db92b86" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,11 +33,6 @@
         <option name="userSettingsFile" value="D:\ITsoftware\maven\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="59" />
-    <option name="width" value="1768" />
-    <option name="height" value="1013" />
   </component>
   <component name="ProjectId" id="29mnwWGjsd6sSvgHpyfont5R8hq" />
   <component name="ProjectLevelVcsManager">
@@ -99,7 +90,7 @@
       <workItem from="1603381220856" duration="322000" />
       <workItem from="1627659605226" duration="409000" />
       <workItem from="1653727368095" duration="900000" />
-      <workItem from="1661179710973" duration="313000" />
+      <workItem from="1661179710973" duration="976000" />
     </task>
     <task id="LOCAL-00001" summary="梦醒了">
       <created>1598186789687</created>
@@ -143,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653727405317</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="测试soft">
+      <created>1661180037093</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661180037093</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加忽略配置">
+      <created>1661180069507</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661180069507</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,13 +198,26 @@
     <MESSAGE value="兵不在多而在精，将不在勇而在谋！" />
     <MESSAGE value="添加忽略文件" />
     <MESSAGE value="测试soft" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试soft" />
+    <MESSAGE value="添加忽略配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加忽略配置" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1653727639865">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1661180068258">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1653727639865" />
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661180068258" />
+    <state x="628" y="315" key="Gitee.ShareDialog" timestamp="1661180261840">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="628" y="315" key="Gitee.ShareDialog/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661180261840" />
+    <state x="367" y="148" key="Vcs.Push.Dialog.v2" timestamp="1661180179972">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="148" key="Vcs.Push.Dialog.v2/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661180179972" />
+    <state x="590" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661180694176">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="590" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661180694176" />
   </component>
   <component name="masterDetails">
     <states>

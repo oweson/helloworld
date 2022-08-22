@@ -6,6 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54c03cd8-71dd-43e7-b246-70d39db92b86" name="Default Changelist" comment="" />
+    <list default="true" id="54c03cd8-71dd-43e7-b246-70d39db92b86" name="Default Changelist" comment="undo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="c7aea431-aee6-4f8d-9d24-c896c9acc030" name="commit undo" comment="重新">
+      <change beforePath="$PROJECT_DIR$/src/open/DemoMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/open/DemoMap.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature_list" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -45,6 +55,7 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -148,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661180069507</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="undo">
+      <created>1661181000072</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661181000072</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit undo">
+      <created>1661181682759</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661181682759</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +224,10 @@
     <MESSAGE value="添加忽略文件" />
     <MESSAGE value="测试soft" />
     <MESSAGE value="添加忽略配置" />
+    <MESSAGE value="undo" />
+    <MESSAGE value="commit undo" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit undo" />
+    <MESSAGE value="添加忽略配置" />
     <option name="LAST_COMMIT_MESSAGE" value="添加忽略配置" />
   </component>
   <component name="WindowStateProjectService">
@@ -211,8 +240,42 @@
     </state>
     <state x="628" y="315" key="Gitee.ShareDialog/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661180261840" />
     <state x="367" y="148" key="Vcs.Push.Dialog.v2" timestamp="1661180179972">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1661181681520">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661181681520" />
+    <state x="148" y="66" key="DiffContextDialog" timestamp="1661181483595">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="148" y="66" key="DiffContextDialog/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661181483595" />
+    <state x="628" y="315" key="Gitee.ShareDialog" timestamp="1661180261840">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="628" y="315" key="Gitee.ShareDialog/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661180261840" />
+    <state x="148" y="66" key="MergeDialog" timestamp="1661180919552">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="148" y="66" key="MergeDialog/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661180919552" />
+    <state x="413" y="176" key="MultipleFileMergeDialog" timestamp="1661180919569">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="413" y="176" key="MultipleFileMergeDialog/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661180919569" />
+    <state x="512" y="117" key="RollbackChangesDialog" timestamp="1661181643356">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="512" y="117" key="RollbackChangesDialog/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661181643356" />
+    <state x="623" y="328" key="VCS.ChangelistChooser" timestamp="1661181718457">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="623" y="328" key="VCS.ChangelistChooser/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661181718457" />
+    <state x="367" y="148" key="Vcs.Push.Dialog.v2" timestamp="1661181746355">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="148" key="Vcs.Push.Dialog.v2/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661181746355" />
+    <state x="590" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661180694176">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="590" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661180694176" />
     <state x="367" y="148" key="Vcs.Push.Dialog.v2/0.0.1549.831/1920.0.1549.831@0.0.1549.831" timestamp="1661180179972" />
     <state x="590" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661180694176">
       <screen x="0" y="0" width="1549" height="831" />

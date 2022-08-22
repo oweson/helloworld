@@ -1,5 +1,7 @@
 package open;
 
+import java.util.ArrayList;
+
 /**
  * @author oweson
  * @date 2022/8/22 22:53
@@ -11,5 +13,7 @@ public class DemoMap {
         System.out.println("main-20220822");
 
         System.out.println("dev ok!");
+        System.out.println("feature ok!");
+        ArrayList<Object> objects = new ArrayList<>();
     }
 }

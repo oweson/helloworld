@@ -24,5 +24,8 @@ public class DemoMap {
         System.out.println(1/0);
 
 
+        System.out.println("feature2");
+
+
     }
 }

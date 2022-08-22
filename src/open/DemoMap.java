@@ -1,6 +1,5 @@
 package open;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
@@ -13,7 +12,6 @@ public class DemoMap {
     public static void main(String[] args) {
         System.out.println("main-20220822");
         System.out.println("feature ok!");
-        ArrayList<Object> objects = new ArrayList<>();
         System.out.println("undo test!");
         System.out.println("ignore test!");
 

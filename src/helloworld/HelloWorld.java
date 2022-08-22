@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.err.println("随便改一改！！！");
 		System.out.println("best!");
 		System.out.println(20210904);
+		System.out.println(1/0);
 
 
 	}

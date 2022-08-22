@@ -18,6 +18,8 @@ public class DemoMap {
 
         System.out.println("feature!");
 
+        System.out.println(1/1);
+
 
     }
 }

@@ -1,6 +1,7 @@
 package open;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
  * @author oweson
@@ -19,6 +20,10 @@ public class DemoMap {
         System.out.println("feature!");
 
         System.out.println(1/1);
+
+        HashMap<Object, Object> objectObjectHashMap = new HashMap<>();
+
+        System.out.println(1/0);
 
 
     }

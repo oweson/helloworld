@@ -11,11 +11,15 @@ import java.util.ArrayList;
 public class DemoMap {
     public static void main(String[] args) {
         System.out.println("main-20220822");
-
-        System.out.println("dev ok!");
         System.out.println("feature ok!");
         ArrayList<Object> objects = new ArrayList<>();
         System.out.println("undo test!");
+        System.out.println("ignore test!");
+
+        System.out.println("feature!");
+
+        System.out.println(1/1);
+
 
     }
 }

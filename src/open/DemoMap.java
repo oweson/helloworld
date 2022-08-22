@@ -15,5 +15,7 @@ public class DemoMap {
         System.out.println("dev ok!");
         System.out.println("feature ok!");
         ArrayList<Object> objects = new ArrayList<>();
+        System.out.println("undo test!");
+
     }
 }

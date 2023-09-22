@@ -1,5 +1,7 @@
 package helloworld;
 
+import java.util.Date;
+
 public class HelloWorld {
 
 	public static void main(String[] args) {
@@ -11,6 +13,7 @@ public class HelloWorld {
 		System.out.println("best!");
 		System.out.println(20210904);
 		System.out.println(1/0);
+		System.out.println(new Date());
 
 
 	}

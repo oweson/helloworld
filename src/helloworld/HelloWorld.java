@@ -14,6 +14,7 @@ public class HelloWorld {
 		System.out.println(20210904);
 		System.out.println(1/0);
 		System.out.println(new Date());
+		System.out.println(1.00);
 
 
 	}
